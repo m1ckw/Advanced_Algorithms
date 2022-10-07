@@ -31,17 +31,17 @@ In this advanced programming unit we examined the design, analysis and implement
   </tr>
 </table> 
 
-### Modules Covered in the Unit
+### Modules Covered/Completed in the Unit
  <ol>
-  <li>Introduction and Problem Decomposition</li>
-  <li>Algorithm Design: DIP & OCP Principals, Liskov Substitution Principal and UML.</li>
-  <li>Design Patterns: Simple & Abstract Factory Patterns, Factory Method, Plus Singleton, Facade and Observer Patterns.</li>
-  <li>Trees: Binary Search, AVL, and Red-Black Trees.</li>
-  <li>Graphs I: Depth First Search, Breadth First Search, Check if Bi-Partite & for Strongly Connected Components.</li>
-  <li>Graphs II: Dijkstra's Algorithm, Bellman-Ford, Time Analysis and Floyd-Warshall.</li>
-  <li>Dynamic Programming: Longest Common Subsequnce, Knapsack Problem, Unbounded Knapsack and 0/1 Knapsack.</li>
-  <li>Greedy Algorithms (Credit Task): Activity Selection, Job Scheduling, Huffman Coding, Minimum Spanning Trees (Prim's Algorithm) and Kruskal's Algorithm.</li>
-  <li>Linear Programming (Credit Task): Standard & Slack Froms, Gaussian Elimination and the Simplex Algorithm.</li>
-  <li>AI Algorithms (Distinction Task): Principal Component Analysis, Single Value Decomposition (SVD), UV Decomposition and Tensor Flows (Forward & Backward Propogation.</li>
-  <li>Miscellaneous Algorithms (Distinction Task): Reinforcement Learning, Montecarlo Tree Search Algorithm and MapReduce.</li>
+  <li><b>Introduction and Problem Decomposition</b></li>
+  <li><b>Algorithm Design:</b> DIP & OCP Principals, Liskov Substitution Principal and UML.</li>
+  <li><b>Design Patterns:</b> Simple & Abstract Factory Patterns, Factory Method, Plus Singleton, Facade and Observer Patterns.</li>
+  <li><b>Trees:</b> Binary Search, AVL, and Red-Black Trees.</li>
+  <li><b>Graphs I:</b> Depth First Search, Breadth First Search, Check if Bi-Partite & for Strongly Connected Components.</li>
+  <li><b>Graphs II:</b> Dijkstra's Algorithm, Bellman-Ford, Time Analysis and Floyd-Warshall.</li>
+  <li><b>Dynamic Programming:</b> Longest Common Subsequnce, Knapsack Problem, Unbounded Knapsack and 0/1 Knapsack.</li>
+  <li><b>Greedy Algorithms (Credit Task):</b> Activity Selection, Job Scheduling, Huffman Coding, Minimum Spanning Trees (Prim's Algorithm) and Kruskal's Algorithm.</li>
+  <li><b>Linear Programming (Credit Task):</b> Standard & Slack Froms, Gaussian Elimination and the Simplex Algorithm.</li>
+  <li><b>AI Algorithms (Distinction Task):</b> Principal Component Analysis, Single Value Decomposition (SVD), UV Decomposition and Tensor Flows (Forward & Backward Propogation.</li>
+  <li><b>Miscellaneous Algorithms (Distinction Task):</b> Reinforcement Learning, Montecarlo Tree Search Algorithm and MapReduce.</li>
 </ol> 
