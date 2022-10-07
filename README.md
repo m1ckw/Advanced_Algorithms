@@ -32,3 +32,16 @@ In this advanced programming unit we examined the design, analysis and implement
 </table> 
 
 ### Modules Covered in the Unit
+ <ol>
+  <li>Introduction and Problem Decomposition</li>
+  <li>Algorithm Design: DIP & OCP Principals, Liskov Substitution Principal and UML.</li>
+  <li>Design Patterns: Simple & Abstract Factory Patterns, Factory Method, Plus Singleton, Facade and Observer Patterns.</li>
+  <li>Trees: Binary Search, AVL, and Red-Black Trees.</li>
+  <li>Graphs I: Depth First Search, Breadth First Search, Check if Bi-Partite & for Strongly Connected Components.</li>
+  <li>Graphs II: Dijkstra's Algorithm, Bellman-Ford, Time Analysis and Floyd-Warshall.</li>
+  <li>Dynamic Programming: Longest Common Subsequnce, Knapsack Problem, Unbounded Knapsack and 0/1 Knapsack.</li>
+  <li>Greedy Algorithms (Credit Task): Activity Selection, Job Scheduling, Huffman Coding, Minimum Spanning Trees (Prim's Algorithm) and Kruskal's Algorithm.</li>
+  <li>Linear Programming (Credit Task): Standard & Slack Froms, Gaussian Elimination and the Simplex Algorithm.</li>
+  <li>AI Algorithms (Distinction Task): Principal Component Analysis, Single Value Decomposition (SVD), UV Decomposition and Tensor Flows (Forward & Backward Propogation.</li>
+  <li>Miscellaneous Algorithms (Distinction Task): Reinforcement Learning, Montecarlo Tree Search Algorithm and MapReduce.</li>
+</ol> 
