@@ -42,6 +42,6 @@ In this advanced programming unit we examined the design, analysis and implement
   <li><b>Dynamic Programming:</b> Longest Common Subsequnce, Knapsack Problem, Unbounded Knapsack and 0/1 Knapsack.</li>
   <li><b>Greedy Algorithms (Credit Task):</b> Activity Selection, Job Scheduling, Huffman Coding, Minimum Spanning Trees (Prim's Algorithm) and Kruskal's Algorithm.</li>
   <li><b>Linear Programming (Credit Task):</b> Standard & Slack Froms, Gaussian Elimination and the Simplex Algorithm.</li>
-  <li><b>AI Algorithms (Distinction Task):</b> Principal Component Analysis, Single Value Decomposition (SVD), UV Decomposition and Tensor Flows (Forward & Backward Propogation.</li>
+  <li><b>AI Algorithms (Distinction Task):</b> Principal Component Analysis, Single Value Decomposition (SVD), UV Decomposition and Tensor Flows (Forward & Backward Propogation).</li>
   <li><b>Miscellaneous Algorithms (Distinction Task):</b> Reinforcement Learning, Montecarlo Tree Search Algorithm and MapReduce.</li>
 </ol> 
