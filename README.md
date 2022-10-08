@@ -12,17 +12,17 @@ In this advanced programming unit we examined the design, analysis and implement
   <tr>
     <td>ULO1</td>
     <td>Analyse complex scenarios and draw upon appropriate algorithms and design patterns to design, implement and test software solutions that address the identified requirements and constraints.</td>
-    <td>GLO1: Discipline-specific knowledge and capabilities GLO5: Problem solving</td>
+    <td>GLO1: Discipline-specific knowledge and capabilities. <br>GLO5: Problem solving</td>
   </tr>
   <tr>
     <td>ULO2</td>
     <td>Implement, review, and evaluate software solutions that involve the application of complex algorithms and design patterns.</td>
-    <td>GLO1: Discipline-specific knowledge and capabilities GLO4: Critical thinking</td>
+    <td>GLO1: Discipline-specific knowledge and capabilities. <br>GLO4: Critical thinking</td>
   </tr>
   <tr>
     <td>ULO3</td>
     <td>Clearly present relevant solution features and trade-offs when communicating with both specialist and non-specialist audiences.</td>
-    <td>GLO1: Discipline-specific knowledge and capabilities GLO2: Communication</td>
+    <td>GLO1: Discipline-specific knowledge and capabilities. <br>GLO2: Communication</td>
   </tr>
   <tr>
     <td>ULO4</td>
