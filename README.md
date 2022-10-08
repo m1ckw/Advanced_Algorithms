@@ -31,7 +31,7 @@ In this advanced programming unit we examined the design, analysis and implement
   </tr>
 </table> 
 
-### Modules Covered/Completed in the Unit
+### Modules Covered/Completed within the Unit
  <ol>
   <li><b>Introduction and Problem Decomposition</b></li>
   <li><b>Algorithm Design:</b> DIP & OCP Principals, Liskov Substitution Principal and UML.</li>
