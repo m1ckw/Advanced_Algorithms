@@ -35,7 +35,7 @@ In this advanced programming unit we examined the design, analysis and implement
  <ol>
   <li><b>Introduction and Problem Decomposition</b></li>
   <li><b>Algorithm Design:</b> DIP & OCP Principals, Liskov Substitution Principal and UML.</li>
-  <li><b>Design Patterns:</b> Simple & Abstract Factory Patterns, Factory Method, Plus Singleton, Facade and Observer Patterns.</li>
+  <li><b>Design Patterns:</b> Simple & Abstract Factory Patterns, Factory Method, plus the Singleton, Facade and Observer Patterns.</li>
   <li><b>Trees:</b> Binary Search, AVL, and Red-Black Trees.</li>
   <li><b>Graphs I:</b> Depth First Search, Breadth First Search, Check if Bi-Partite & for Strongly Connected Components.</li>
   <li><b>Graphs II:</b> Dijkstra's Algorithm, Bellman-Ford, Time Analysis and Floyd-Warshall.</li>
