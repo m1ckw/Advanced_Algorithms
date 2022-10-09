@@ -1,6 +1,6 @@
 # SIT320 Advanced Algorithms
 
-### Deakin University Computer Science Unit - Completed with Distinction
+### Deakin University Computer Science Unit
 In this advanced programming unit we examined the design, analysis and implementation of advanced algorithms.  Explored software design patterns, their use in problem solving, and software testing techniques and tools to verify implementation. The unit focused on the design and construction of advanced algorithms for software solutions with a strong emphasis on the practical application of the algorithms, patterns, and tools under investigation.
 
  <table>
