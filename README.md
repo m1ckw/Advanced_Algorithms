@@ -1,7 +1,7 @@
-# SIT320 Advanced Algorithms
+# Advanced Algorithms
 
 ### Deakin University Computer Science Unit
-In this advanced programming unit we examined the design, analysis and implementation of advanced algorithms.  Explored software design patterns, their use in problem solving, and software testing techniques and tools to verify implementation. The unit focused on the design and construction of advanced algorithms for software solutions with a strong emphasis on the practical application of the algorithms, patterns, and tools under investigation.
+In this advanced programming unit, we examined the design, analysis and implementation of advanced algorithms.  Explored software design patterns, their use in problem solving, and software testing techniques and tools to verify implementation. The unit focused on the design and construction of advanced algorithms for software solutions with a strong emphasis on the practical application of the algorithms, patterns, and tools under investigation.
 
  <table>
   <tr>
@@ -39,7 +39,7 @@ In this advanced programming unit we examined the design, analysis and implement
   <li><b>Trees:</b> Binary Search, AVL, and Red-Black Trees.</li>
   <li><b>Graphs I:</b> Depth First Search, Breadth First Search, Check if Bi-Partite & for Strongly Connected Components.</li>
   <li><b>Graphs II:</b> Dijkstra's Algorithm, Bellman-Ford, Time Analysis and Floyd-Warshall.</li>
-  <li><b>Dynamic Programming:</b> Longest Common Subsequnce, Knapsack Problem, Unbounded Knapsack and 0/1 Knapsack.</li>
+  <li><b>Dynamic Programming:</b> Longest Common Subsequence, Knapsack Problem, Unbounded Knapsack and 0/1 Knapsack.</li>
   <li><b>Greedy Algorithms (Credit Task):</b> Activity Selection, Job Scheduling, Huffman Coding, Minimum Spanning Trees (Prim's Algorithm) and Kruskal's Algorithm.</li>
   <li><b>Linear Programming (Credit Task):</b> Standard & Slack Froms, Gaussian Elimination and the Simplex Algorithm.</li>
   <li><b>AI Algorithms (Distinction Task):</b> Principal Component Analysis, Single Value Decomposition (SVD), UV Decomposition and Tensor Flows (Forward & Backward Propogation).</li>
